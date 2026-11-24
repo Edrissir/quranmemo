@@ -1,0 +1,2 @@
+# quranmemo
+For memorization 
